@@ -1,0 +1,12 @@
+.idea/
+.vs/
+.vscode/
+.vsconfig
+Assembly-CSharp.csproj
+Library/
+Logs/
+Packages/
+Temp/
+UserSettings/
+WeGame.sln
+obj/
